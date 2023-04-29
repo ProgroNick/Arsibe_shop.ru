@@ -1,0 +1,68 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Lobster&display=swap');
+
+
+
+body{
+  background-color: #e3b024;
+  font-family: 'Bruno Ace', cursive;
+
+}
+
+h1{
+  margin:25px;
+}
+
+div{
+  width: 750;
+  height:150px;
+  padding: 5px;
+  margin:200px;
+}
+img{
+  width: 250px;
+  height: 250px;
+  margin: 5px;
+  border-radius: 125px;
+}
+main{
+  margin: 25px;
+  background-color: #c8faf5;
+  height: 1300px;
+  border-radius: 50px;
+}
+div a{
+  color: orange;
+  text-decoration: none;
+}
+div a:hover {
+  color: blue;
+  text-decoration: underline;
+}
+div a:visited{
+  color: gray;
+}
+button{
+  background-color: #b535cc;
+  width: 75px;
+  height: 30px;
+  margin-left: 40px;
+  margin-bottom: 10px;
+
+}
+.buyPhoto{
+  display: flex;
+  width: 500px;
+  height: 500px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+.telega{
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+  margin: 25px, 0, 0, 30px;
+}
+.tsh{
+  height: 100%
+}
